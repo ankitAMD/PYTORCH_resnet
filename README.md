@@ -7,3 +7,5 @@ https://github.com/ShuvenduBikash/Computer_vision_with_deeplearning/blob/master/
 https://github.com/ShuvenduBikash/Computer_vision_with_deeplearning
 
 https://jhui.github.io/2018/02/09/PyTorch-neural-networks/
+
+#pytorch linear regression---
